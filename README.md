@@ -16,7 +16,7 @@
 - 👨‍💻 Aspire to be an a Electronisc and communication Enginnering. I'm constantly learning new technologies to improve my skills.
 - 💬 **Ask me about**:
 - 🎯My experience with C, C++, and python, Verilog,regression,clasification or anything related to Embedded System Concepts.
-- 🎯 **Smart Farm** project.
+- 🎯 **Smart irrigation** project.
 - 🌟 **Current Project**:I'm currently learing interface in depth,Machine learing,and do my best to devolpe from my self
 - 🌟 **Unique Experience**: Volunteering in many teams in different tracks.
 --- 
