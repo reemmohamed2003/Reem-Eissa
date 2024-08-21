@@ -23,7 +23,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/reem-mohamed-77b374245/" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://Telegram.com/profile/@Reem_Mohmed37436"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=Codforces&logoColor=white"/></a>
+<a href="https://Telegram.com/profile/@Reem_Mohmed37436"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 <a href="reemesa2021@gmail.com"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
