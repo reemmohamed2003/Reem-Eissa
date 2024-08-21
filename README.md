@@ -2,7 +2,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Sara Saad Mahmoud's profile!
+  Welcome to Reem Mohamed's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -23,9 +23,8 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/reem-mohamed-77b374245/" target="_blank"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://codeforces.com/profile/Sara_Saad_Mahmoud"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=Codforces&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/sarasaadmahmoud1"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=hakerrank&logoColor=white"/></a>
-<a href="Sarasaadmahmoud146@gmail.com"><img src="https://img.shields.io/badge/-Sara%20Saad-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://Telegram.com/profile/@Reem_Mohmed37436"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=Codforces&logoColor=white"/></a>
+<a href="reemesa2021@gmail.com"><img src="https://img.shields.io/badge/-Reem%20Mohamed-0077B5?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 - 💻 &nbsp;
